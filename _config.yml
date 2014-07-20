@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Ray Writes Code 
-tagline:          A blog about Software Development
+title:            Ray Santos 
+tagline:          
 url:              http://raywritescode.github.io
 paginate:         1
 baseurl:          /
