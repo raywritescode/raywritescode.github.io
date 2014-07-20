@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Ray Santos 
+title:            Ray Writes Code 
 tagline:          
 url:              http://raywritescode.github.io
 paginate:         1
@@ -17,6 +17,7 @@ author:
   email:          ray@raywritescode.com
 pages_list:
   About: '/about'
+  Archive: '/archive'
 
 # Custom vars
 version:          1.0.0
