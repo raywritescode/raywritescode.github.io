@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Home
+comments: False
 ---
 
 *Ray Writes Code* has a new home 
