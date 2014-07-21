@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New Home
+comments: False
+permalink: new-blog-location
 ---
 
 *Ray Writes Code* has a new home 
