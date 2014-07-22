@@ -144,9 +144,9 @@ The [SmallNetBuilder website](http://www.smallnetbuilder.com/nas/nas-charts/view
 
 With those commercial NAS benchmarked speeds in mind, I did some File Copy Write Performance testing of the pi-lego Raspberry Pi NAS.
 
-Side Note - If I were running network performance tests in a commercial environment I'd run tests consisting of various file transfer sizes and with various file type combinations.
+The test consisted of copying all 53 GB of my data files from my main computer to pi-lego over the wireless home network. 
 
-The test consisted of copying all 53 GB of my data files from my main computer to pi-lego over the wireless home network.
+*[side note: If I were running network performance tests in a commercial environment I'd run tests consisting of various file transfer sizes and with various file type combinations.]* 
 
 I ran the test five times. Here's a screenshot from one of the test runs.
 
@@ -154,7 +154,9 @@ I ran the test five times. Here's a screenshot from one of the test runs.
 
 pi-lego's File Copy Write Performance speed ranged from 2.3 MB/s to 2.6 MB/s. This averages to 2.45 MB/s, which is consistent with what I observed.
 
-pi-lego's average 2.45 MB/s File Copy Write Performance is pitiful when compared to the 18.1 MB/s of the low-end commercial NAS. However, I'm pleased with pi-lego's performance because I read in various Raspberry Pi NAS tutorials, such as [ZEDT's - Raspberry Pi as NAS](http://www.zedt.eu/tech/linux/raspberry-pi-as-nas/), to expect File Copy Write Performance speeds in the 2.X MB/s range when using NTFS formatted USB hard drives. pi-lego uses NTFS formatted USB hard drives.
+pi-lego's average 2.45 MB/s File Copy Write Performance is pitiful when compared to the 18.1 MB/s of the low-end commercial NAS. However, I'm pleased with pi-lego's performance because I read in various Raspberry Pi NAS tutorials, such as [ZEDT's - Raspberry Pi as NAS](http://www.zedt.eu/tech/linux/raspberry-pi-as-nas/), to expect File Copy Write Performance speeds in the 2.X MB/s range when using NTFS formatted USB hard drives. 
+
+pi-lego uses NTFS formatted USB hard drives.
 
 In ZEDT's tutorial, ZED increased the File Copy Write Performance of his Raspberry Pi NAS from 2.8 MB/s to 8.5 MB/s by reformatting his NAS storage hard drive from NTFS to FAT32. That's a dramatic increase in speed and I'm tempted to reformat pi-lego's hard drives to also get that speed increase.
 
