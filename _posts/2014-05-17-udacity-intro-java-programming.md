@@ -53,5 +53,3 @@ If you’re a non-programmer who is interested in learning about object-oriented
 Here’s a preview of the course.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Wsp5Rrenoq4?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
------
-**tl;dr** This is a review of Udacity.com's [Intro to Programming: Problem Solving with Java] (https://www.udacity.com/course/cs046) course. The instructors did a great job teaching the fundamentals of Java programming. I enjoyed taking the course. If you're new to Java or need a refresher course on Java, then I highly recommend you take the course.
