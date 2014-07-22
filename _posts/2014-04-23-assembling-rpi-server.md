@@ -2,6 +2,7 @@
 layout: post
 title: Assembling a Raspberry Pi Server 
 permalink: assembling-rpi-server
+comments: True
 ---
 
 Over the past three weeks I’ve completed three projects based on the Raspberry Pi (RPi) computer: a NAS (network-attached storage) server, a home entertainment media server, and a personal web server. I’m currently finishing my fourth Raspberry Pi computer project, which is a remote (or off-site) backup server for my home NAS.
