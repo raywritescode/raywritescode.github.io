@@ -8,7 +8,7 @@ permalink: new-host-for-blog
 
 The previous *raywritescode.com* site, which was hosted on [WordPress] (https://wordpress.com/), is unfortunately no longer available. 
 
-However, you can view internet-archived versions of most of my past blog posts by doing a google search of [raywritescode.com archive] (https://www.google.com/?gws_rd=ssl#q=raywritescode.com+archive) and viewing the cached versions of the returned search results. 
+However, you can view internet-archived versions of most of my past blog posts by doing a [google search of raywritescode.com](https://www.google.com/?gws_rd=ssl#q=raywritescode.com) and viewing the cached versions of the returned search results that are dated before July 20, 2014. 
 
 To view a cached blog post click the downward pointing arrowhead located to the right of a search results URL and select `Cached` from the pop-up menu.
 
