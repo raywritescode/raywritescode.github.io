@@ -14,3 +14,5 @@ My professional career has primarily been in software quality assurance and soft
 My career emphasis is now on software design and software development.
 
 This blog might interest you if you’re a hobbyist programmer or someone who is considering a career change into software development.
+
+![raywritescode](/images/aboutPhoto.png)
