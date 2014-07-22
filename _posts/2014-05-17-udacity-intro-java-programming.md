@@ -5,10 +5,6 @@ comments: True
 permalink: udacity-intro-java-programming-review
 ---
 
-**tl;dr** This is a review of Udacity.com's [Intro to Programming: Problem Solving with Java] (https://www.udacity.com/course/cs046) course. If you're new to Java or need a refresher course on Java, then I highly recommend you take the course.
- 
------
-
 [Udacity] (http://www.udacity.com), in collaboration with [San Jose State University] (http://www.sjsu.edu/), offers an [Intro to Programming: Problem Solving with Java] (https://www.udacity.com/course/cs046) course that I’ve recommended to friends and colleagues who are non-programmers and who are interested in learning about computer programming.
 
 I’ve recommended the course based solely on the course’s primary instructor, [Cay Horstmann] (http://www.hostmann.com), who is a professor of computer science at San Jose State University and a prolific author of books about programming languages and computer science. I’m familiar with Professor Horstmann’s work from having studied the Java programming language from his excellent [Core Java] (http://www.horstmann.com/corejava.html) series of books.
@@ -57,3 +53,5 @@ If you’re a non-programmer who is interested in learning about object-oriented
 Here’s a preview of the course.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Wsp5Rrenoq4?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+-----
+**tl;dr** This is a review of Udacity.com's [Intro to Programming: Problem Solving with Java] (https://www.udacity.com/course/cs046) course. The instructors did a great job teaching the fundamentals of Java programming. I enjoyed taking the course. If you're new to Java or need a refresher course on Java, then I highly recommend you take the course.
