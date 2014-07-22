@@ -44,3 +44,6 @@ The strip is taped to modem's top edge so the strip can be lifted like a flap fo
 Up until last week the data on my two-year old computer had never been backed-up. My home network equipment was scattered under my bed, covered with a layer of dust, and with no backup power source.
 
 Now my computer data is backed-up daily with redundancy. My home network equipment is clean and organized, cooled 24/7, and has up to 40 minutes of backup power.
+
+### Short video of the Micro Data Center
+<iframe width="640" height="360" src="//www.youtube.com/embed/LI2g8UHlw3c?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
