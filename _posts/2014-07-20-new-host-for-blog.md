@@ -10,6 +10,6 @@ The previous *raywritescode.com* site, which was hosted on [WordPress] (https://
 
 However, you can view internet-archived versions of most of my past blog posts by doing a [google search of raywritescode.com](https://www.google.com/?gws_rd=ssl#q=raywritescode.com) and viewing the cached versions of the returned search results that are dated before July 20, 2014. 
 
-To view a cached blog post click the downward pointing arrowhead located to the right of a search results URL and select `Cached` from the pop-up menu.
+To view a cached blog post click the downward pointing arrowhead located to the right of a search results URL and select `Cached` on the pop-up menu.
 
 As I'm able to recover them, I plan to restore a select subset of those previous blog posts onto this blog's new host.
