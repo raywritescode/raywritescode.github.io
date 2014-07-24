@@ -16,3 +16,8 @@ My career emphasis is now on software design and software development.
 This blog might interest you if you’re a hobbyist programmer or someone who is considering a career change into software development.
 
 ![raywritescode](/images/aboutPhoto.png)
+
+* [GitHub](https://github.com/raywritescode)
+* [@raywritescode](https://twitter.com/raywritescode)
+* [LinkedIn](http://www.linkedin.com/in/raywritescode)
+* [PGP Public Key](http://pgp.mit.edu/pks/lookup?op=get&search=0x5566F6D025842818)
