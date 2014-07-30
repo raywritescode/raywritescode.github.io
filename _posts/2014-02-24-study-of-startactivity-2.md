@@ -5,9 +5,7 @@ permalink: study-of-startactivity-2
 comments: True
 ---
 
-## Overview
-
-This second *A Study Of* exercise focused on passing data between two activities using startActivityForResult(Intent, int) and its associated methods.
+This second *A Study Of* exercise focuses on passing data between two activities using startActivityForResult(Intent, int) and its associated methods.
 
 Unlike with my previous study of startActivity(Intent), I decided to approach this study in a slightly formal manner by first creating screen mock-ups of the application and defining the UI layout formats before writing any code.
 
