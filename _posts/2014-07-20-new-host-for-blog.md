@@ -4,7 +4,7 @@ title: New Host for Blog
 permalink: new-host-for-blog
 ---
 
-*raywritescode.com* is now hosted on [Github Pages] (https://pages.github.com). The site's content is published using [Jekyll] (http://jekyllrb.com). The site's design is the basic theme provided by [Poole] (http://getpoole.com). 
+*raywritescode.com* is now hosted on [GitHub Pages] (https://pages.github.com). The site's content is published using [Jekyll] (http://jekyllrb.com). The site's design is the basic theme provided by [Poole] (http://getpoole.com). 
 
 The previous *raywritescode.com* site, which was hosted on [WordPress] (https://wordpress.com/), is unfortunately no longer available. 
 
