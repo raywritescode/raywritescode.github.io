@@ -17,7 +17,7 @@ author:
   email:          ray@raywritescode.com
 pages_list:
   About: '/about'
-  Archive: '/archive'
+  Archives: '/archives'
 
 # Custom vars
 version:          1.0.0
