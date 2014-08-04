@@ -43,7 +43,7 @@ I've decided to work on broadening my software developer knowledge and skills fo
 
 I can talk in general terms about data structures and algorithms and sound knowledgeable about them. 
 
-However, put an erasable marker in my hand and ask me to write pseudo-code or programming language code on a whiteboard to demonstrate those data structures and algorithms and I'll struggle.
+However, put an erasable marker in my hand and ask me to write pseudocode or programming language code on a whiteboard to demonstrate those data structures and algorithms and I'll struggle.
 
 My guide to improving my working knowledge of data structures and algorithms is <a href="http://www.amazon.com/gp/product/032157351X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032157351X&linkCode=as2&tag=6767151-20&linkId=VDQQF76W62ZFHSPH">Algorithms (4th Edition)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=6767151-20&l=as2&o=1&a=032157351X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
