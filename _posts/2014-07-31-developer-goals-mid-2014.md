@@ -9,7 +9,7 @@ On January 17, 2014 I posted [my developer goals for the year](http://www.raywri
 
 ## Review - Launch a Redesigned Blog Site and Publish Content Regularly
 
-Up until June I published at least one new blog post every ten days. The blog posts mainly covered Android development, Java programming, and Raspberry Pi projects. I'm satisfied with my blog posting frequency and the content of my blog posts for the first half of this year.  
+Up until June I published at least one new blog post every ten days. The blog posts mainly covered Android development, Java programming, and Raspberry Pi projects. I'm satisfied with my blog posting frequency and the content of my blog posts for the first half of this year.
 
 For five weeks spanning part of June and July I didn't write any blog posts and I did little coding studying because a death in the family had me doing funeral planning and post-funeral work. Blogging and coding studies fell to the bottom of my priorities list during that time.
 
