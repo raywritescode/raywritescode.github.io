@@ -21,3 +21,5 @@ This blog might interest you if you’re a hobbyist programmer or someone who is
 * [@raywritescode](https://twitter.com/raywritescode)
 * [LinkedIn](http://www.linkedin.com/in/raywritescode)
 * [PGP Public Key](http://pgp.mit.edu/pks/lookup?op=get&search=0x5566F6D025842818)
+
+Content for this blog is written using [Markdown](http://en.wikipedia.org/wiki/Markdown), which is processed into static HTML by [Jekyll](http://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/).
