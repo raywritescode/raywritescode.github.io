@@ -10,7 +10,7 @@ comments: True
 ## Textbook
 I prefer reading from physical books so I own a physical copy of <a href="http://www.amazon.com/gp/product/0262510871/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262510871&linkCode=as2&tag=6767151-20&linkId=IT74OVKFCMXWQNMU">Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=6767151-20&l=as2&o=1&a=0262510871" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-MIT Press provides the complete text of SICP in HTML format for free online at [mitpress.mit.edu/sicp/](http://mitpress.mit.edu/sicp/)
+MIT Press provides the complete text of SICP in HTML format for free online at [mitpress.mit.edu/sicp/full-text/book/book.html](http://mitpress.mit.edu/sicp/full-text/book/book.html).
 
 You can also get a PDF version of SICP at [github.com/sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf). I haven't looked at the quality of the PDF.
 
