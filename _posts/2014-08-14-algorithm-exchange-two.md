@@ -4,14 +4,16 @@ title: Algorithm - Exchange the Values of Two Variables
 permalink: algorithm-exchange-two
 comments: True
 ---
-I am currently taking a course on [Coursera](http://www.coursera.org) called [Learning How to Learn - Powerful Mental Tools to Help You Master Tough Subjects.](https://www.coursera.org/course/learning) This week's lecture is about [chunking](http://en.wikipedia.org/wiki/Chunking_%28psychology%29), which is a study technique of reducing large amounts of information into compact packages of information that your mind can easily access. I decided to study algorithms using chunking.
+
+I'm currently taking a course on [Coursera](http://www.coursera.org) called [Learning How to Learn - Powerful Mental Tools to Help You Master Tough Subjects.](https://www.coursera.org/course/learning) This week's lecture is about [chunking](http://en.wikipedia.org/wiki/Chunking_%28psychology%29), which is a study technique of reducing large amounts of information into compact packages of information that your mind can easily access. I decided to study algorithms using chunking.
 
 Instead of tackling binary search or fibonnaci algorithms at the start, this blog post begins the algorithms journey by analyzing the simpler algorithm of exchanging the value of two variables.
 
 ## The Problem
+
 Given two variables, *numOne* and *numTwo*, exchange the values assigned to them.
 
-### Example:
+### Example
 
     numOne          numTwo
     ------          ------
@@ -25,13 +27,13 @@ If *numOne* holds the value 19 and *numTwo* holds the variable 67, the graphical
     | 67 |          | 19 |
     ------          ------
 
-Here’s the expected result after applying the algorithm.
+Here's the expected result after applying the algorithm.
 
 ### Initial Thoughts
 
 At first glance the solution seems obvious. Assign the value of *numOne* to *numTwo* and assign the value of *numTwo* to *numOne*.
 
-Here’s a graphical walk-through of this initial solution.
+Here's a graphical walk-through of this initial solution.
 
     numOne          numTwo
     ------          ------
@@ -172,6 +174,6 @@ Exchanging the values associated with two variables is a fundamental algorithm t
 
 Exchanging the values of two variables (*numOne* and *numTwo*) requires the use of a temporary third variable (*origOne*) to hold the original value of *numOne*.
 
-After *origOne* gets the value of *numOne*, *numOne* gets the value of *numTwo* and *numTwo* gets the value of *origOne*).
+After *origOne* gets the value of *numOne*, *numOne* gets the value of *numTwo*, and *numTwo* gets the value of *origOne*.
 
 This study provided graphical representations of both an incorrect and a correct algorithm solution. The study closed with the correct algorithm applied in a simple C program.
