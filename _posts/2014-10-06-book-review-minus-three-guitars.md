@@ -12,7 +12,7 @@ My coding-related activites for September didn't include blogging. Instead, I to
 
 I've reviewed (and edited) technical documents as part of my normal activities in previous software jobs. Reviewing Jeff's book was my first experience contributing as a technical reviewer for a book author and a book publisher. 
 
-I'm looking forward to reading the published version of *Pragmatic Unit Testing in Java 8* and seeing which of my contributions made it into the book. 
+I'm looking forward to reading the published version of *Pragmatic Unit Testing in Java 8 with JUnit* and seeing which of my contributions made it into the book. 
 
 I'm also looking forward to more opportunities in the future to contribute as a technical reviewer for The Pragmatic Bookshelf and for other software developer book publishers.
 
