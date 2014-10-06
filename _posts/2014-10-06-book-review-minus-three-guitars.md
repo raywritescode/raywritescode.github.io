@@ -54,7 +54,7 @@ Before buying the Squier Affinity Telecaster I had my eyes set on the [Fender Am
 
 Then I considered going one model series below and getting the Made-in-Mexico [Fender Standard Telecaster] (http://www.fender.com/guitars/telecaster/standard-telecaster-maple-fingerboard-brown-sunburst-no-bag/) also with Sunburst colored body and maple fingerboard, which costs about 60% less (as of this writing) than the Fender American Standard Telecaster. Still, I couldn't justify the price tag for my guitar novice skill level.
 
-I took my Squier Telecaster to guitar technician Fred Marotta at [The Repair Zone San Diego] (http://youtu.be/pHnEZ0mcon8) to have the guitar professionally setup and adjusted to use .10 to .46 gauge strings ([Ernie Ball 2221 Regular Slinky] (<a href="http://www.amazon.com/gp/product/B0002M6CVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002M6CVC&linkCode=as2&tag=6767151-20&linkId=M4PLQB454SHQLKZ3">Ernie Ball 2221 Regular Slinky</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=6767151-20&l=as2&o=1&a=B0002M6CVC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)). Fred and his team did a great job making my budget Squier electric guitar sound and play like its more expensive Fender cousins.
+I took my Squier Telecaster to guitar technician Fred Marotta at [The Repair Zone San Diego] (http://youtu.be/pHnEZ0mcon8) to have the guitar professionally setup and adjusted to use .10 to .46 gauge strings ([Ernie Ball 2221 Regular Slinky] (http://www.amazon.com/gp/product/B0002M6CVC)). Fred and his team did a great job making my budget Squier electric guitar sound and play like its more expensive Fender cousins.
 
 ### Guitar Goal
 
