@@ -192,4 +192,6 @@ Writing this blog post reminded me of this joke...
 
 The wife of a software developer said to her husband, "Go to the store and buy a loaf of bread. If the store has eggs on sale, buy a dozen of them." 
 
-The software developer went to the store and came home with a dozen loaves of bread.
+The software developer went to the store and saw that eggs were on sale.
+
+He came home with a dozen loaves of bread.
