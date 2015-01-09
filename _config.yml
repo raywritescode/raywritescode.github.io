@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Ray Writes Code 
+title:            SqaDev 
 tagline:          
-url:              http://www.raywritescode.com
+url:              http://www.sqadev.com
 paginate:         1
 baseurl:          /
 author:
