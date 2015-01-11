@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            SqaDev 
+title:            Ray.Writes.Code() 
 tagline:          
-url:              http://www.sqadev.com
+url:              http://www.raywritescode.com
 paginate:         1
 baseurl:          /
 author:
