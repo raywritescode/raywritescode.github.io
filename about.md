@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-*Ray.Writes.Code()* is a blog about Software Quality Assurance and Software Development.
+*Ray.Writes.Code( )* is a blog about Software Quality Assurance and Software Development.
 
 I’m Ray Santos, and I’m writing to you from San Diego, CA.
 
