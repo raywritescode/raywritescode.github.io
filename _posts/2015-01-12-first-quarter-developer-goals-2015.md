@@ -7,7 +7,7 @@ comments: True
 
 For 2015 I've decided to set quarterly developer goals and to focus on one goal for the current quarter.
 
-###Developer goal for first quarter of 2015
+###Developer goal for the first quarter of 2015
 Pass the *Oracle Certified Associate Java SE 7 Programmer I* exam.
 
 ###How I will accomplish this goal 
