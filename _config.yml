@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Ray.Writes.Code( ) 
+title:            Ray.writes.code( ) 
 tagline:          
 url:              http://www.raywritescode.com
 paginate:         1
