@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-*Ray.Writes.Code( )* is a hobbyist programmer's blog about the coding side of software development.
+*Ray.writes.code( )* is a hobbyist programmer's blog about the coding side of software development.
 
 I’m Ray Santos and I’m writing to you from San Diego, CA.
 
@@ -11,7 +11,7 @@ This is my personal blog. I started it to document my adventures learning about 
 
 My professional career is in software quality assurance and software testing. If you live in the U.S. and you’ve prepared your tax return using commercial software or through a CPA who uses commercial software, chances are pretty high that I’ve tested components of that software application.
 
-If you're interested in the software quality assurance and software testing side of software development, visit [www.sqadev.com](http://www.sqadev.com), which is my career-oriented blog. 
+If you're interested in the software quality assurance and software testing side of software development, visit [www.sqadev.com](http://www.sqadev.com), my QA career-oriented blog.
 
 ![raywritescode](/images/aboutPhoto.png)
 
