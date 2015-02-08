@@ -46,13 +46,13 @@ This blog post is my first step toward improving my knowledge about those topics
   * **User-Agent** identifies the web browser being used. 
   * **Accept** identifies what type of responses the browser will accept, which in this case is a text file containing [HTML](http://en.wikipedia.org/wiki/HTML) code.
 
-4. The web server handles (or responds to) the GET request by sending back to the web browser a response that contains the HTML code contained in www.raywritescode.net's `index.html` file.
+4. The web server handles (or responds to) the GET request by sending back to the web browser a response that contains the HTML code contained in *www.raywritescode.net*'s `index.html` file.
   * The `index.html` file in the web site's root `/` directory on the web server contains the following HTML code.<center>![Contents of the web server's index.html file](/images/2015-02-06_04.png)</center>
   * The web server responds to the browser's initial GET request with the following:<center>![Web server's response to the browser's initial GET request](/images/2015-02-06_05.png)</center>
   * **200 OK** on the first line of the response is the [status code](http://www.w3.org/Protocols/HTTP/HTRESP.html). For each request that a web server receives from a web client (in this case, the web browser) it sends a status code that tells the client what happened to the client's request. `200 OK` means that the request (sending the HTML code shown in the response) was fulfilled successfully.  
 
 5. The web browser converts to visual form the received HTML code into the [user interface](http://en.wikipedia.org/wiki/User_interface) (or UI) elements that will be displayed in the browser. If, while converting the HTML code, the browser encounters embedded objects in the code, the browser sends additional GET requests for those objects to the web server.
-  * The `index.html` file's HTML code for www.raywritescode.net uses an image file called `raywritescode-net.png` which is located in the web site's root `/` directory on the web server. 
+  * The `index.html` file's HTML code for *www.raywritescode.net* uses an image file called `raywritescode-net.png` which is located in the web site's root `/` directory on the web server. 
   * The browser needs the image file to display the image in the browser, so it sends the following second GET request to the web server.<center>![Second HTTP GET request](/images/2015-02-06_06.png)</center>
   * As in Step 3, the **GET** identifies the URL to use. The trailing `/raywritescode-net.png` tells the web server to respond with the `raywritescode-net.png` file located in the web site's root `/` directory.
   * **Accept** identifies that the type of response the browser will accept for the GET request is an image file.
