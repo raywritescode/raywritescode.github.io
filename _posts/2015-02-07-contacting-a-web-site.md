@@ -79,9 +79,9 @@ This blog post focused on the HTTP GET [request method](http://en.wikipedia.org/
 
 ### Notes
 
-Links to online sources that I used to write this blog post are provided in the body of the main text. 
+Links to online sources that I referenced to write this blog post are provided in the body of the main text. 
 
-Additional online sources and miscellaneous items that I used to prepare for this blog post are listed below.
+Additional online sources and miscellaneous items that I referenced or used to prepare for this blog post are listed below.
 
 * [HTTP Made Really Easy: A Practical Guide to Writing Clients and Servers](http://www.jmarshall.com/easy/http/)
 * [What Happens When](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
