@@ -22,7 +22,7 @@ This blog post is my first step toward improving my knowledge about those topics
 
 ### The tools
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/): my default web browser. This exercise starts with the browser's [web content cache empty](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache).
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/): my default web browser when using [Windows](http://en.wikipedia.org/wiki/Microsoft_Windows). This exercise starts with the browser's [web content cache empty](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache).
 * [Fiddler2](http://www.telerik.com/fiddler): web debugger tool to view the behind-the-scenes details of the web browser's incoming and outgoing traffic.
 * [www.raywritescode.net](http://www.raywritescode.net): a simple web site that I set up for this exercise.
 
@@ -69,7 +69,7 @@ This blog post is my first step toward improving my knowledge about those topics
 
 ### Conclusion
 
-From the user's point of view, entering `www.raywritescode.net` in the address bar of the web browser displays the web site's home page in less than one second. However, as this exercise demonstrated, even for simple web site a lot of behind-the-scenes communication and procecesses happens in that short period of time between the web browser and the web server.
+From the user's point of view, entering `www.raywritescode.net` in the address bar of the web browser displays the web site's home page in less than one second. However, as this exercise demonstrated, even for a simple web site a lot of behind-the-scenes communication and processing happens in that short period of time between the web browser and the web server.
 
 Although I've used web browsers since 1993 to explore the internet and although I've worked professionally in several [QA roles](http://en.wikipedia.org/wiki/Software_quality_assurance) that involved testing web-based software applications at the UI level, I never had the need to understand in detail what happens behind-the-scenes when a web browser communicates with a web server resource. This knowledge gap in understanding HTTP network request-response transactions, as well knowledge gaps in understanding how to access web services using SOAP and REST, resulted in my recently not getting an interesting QA job that does web services testing at the [web API-level](http://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs).
 
