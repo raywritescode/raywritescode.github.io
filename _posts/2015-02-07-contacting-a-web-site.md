@@ -31,10 +31,10 @@ This blog post is my first step toward improving my knowledge about those topics
 <center>![Entering a URL](/images/2015-02-06_01.png)</center>
 
 1. The browser searches for the IP address that is associated to the *www.raywritescode.net* URL. It does this by scanning through a series of [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) lookup tables until it finds a DNS lookup table that associates the URL to an IP address.  The DNS lookup sequence is:  
-  * browser checks its [cached](http://en.wikipedia.org/wiki/Cache_%28computing%29) [DNS records](http://en.wikipedia.org/wiki/List_of_DNS_record_types). If the URL's IP address is found, go to step 2. Otherwise search the operating system's cache.
-  * browser checks the operating system's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise search the [router](http://en.wikipedia.org/wiki/Router_%28computing%29)'s cache.
-  * browser checks the router's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise search the [ISP](http://en.wikipedia.org/wiki/Internet_service_provider)'s cache.
-  * browser checks the ISP's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise do a recursive search for the IP starting from the top of the internet's [root nameserver](http://en.wikipedia.org/wiki/Root_name_server).
+  * browser checks its [cached](http://en.wikipedia.org/wiki/Cache_%28computing%29) [DNS records](http://en.wikipedia.org/wiki/List_of_DNS_record_types). If the URL's IP address is found, go to step 2. Otherwise, search the operating system's cache.
+  * browser checks the operating system's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise, search the [router](http://en.wikipedia.org/wiki/Router_%28computing%29)'s cache.
+  * browser checks the router's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise, search the [ISP](http://en.wikipedia.org/wiki/Internet_service_provider)'s cache.
+  * browser checks the ISP's cached DNS records. If the URL's IP address is found, go to step 2. Otherwise, do a recursive search for the IP starting from the top of the internet's [root nameserver](http://en.wikipedia.org/wiki/Root_name_server).
   * browser does a recursive search for the IP starting from the top of the root server and works its way down the worldwide DNS server hierarchy. If an IP address is found for the URL, go to step 2. Otherwise, the browser displays a DNS error page.
   
 2. After the browser gets the IP address of the URL it uses the IP address to communicate with the [web resource](http://en.wikipedia.org/wiki/Web_resource) at the IP address. 
