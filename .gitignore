@@ -7,3 +7,4 @@ _site
 _drafts
 post-template.md
 _drafts_hold
+*.ep
