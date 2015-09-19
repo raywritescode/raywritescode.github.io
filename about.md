@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-*Ray.writes.code( )* is a hobbyist programmer's blog about the coding side of software development.
+*Ray.writes.code( )* is a hobbyist programmer's blog about software development.
 
 I’m Ray Santos and I’m writing to you from San Diego, CA.
 
