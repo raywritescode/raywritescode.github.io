@@ -3,6 +3,7 @@ layout: post
 title: SICP - Block Structure and Lexical Scoping 
 permalink: sicp-block-lexical
 comments: True
+published: False
 ---
 
 # Introduction

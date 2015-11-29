@@ -3,6 +3,7 @@ layout: post
 title: Mid-Year Review - Developer Goals for 2014 
 permalink: developer-goals-mid-2014
 comments: True
+published: False
 ---
 
 On January 17, 2014 I posted [my developer goals for the year](http://www.raywritescode.com/developer-goals-2014/). This blog post is my mid-year review of those goals.

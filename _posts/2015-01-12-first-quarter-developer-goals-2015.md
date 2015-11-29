@@ -3,6 +3,7 @@ layout: post
 title: Developer Goals for 2015 - 1st Qtr  
 permalink: first-quarter-developer-goals-2015
 comments: True
+published: False
 ---
 
 For 2015 I've decided to set quarterly developer goals and to focus on one goal for the current quarter.

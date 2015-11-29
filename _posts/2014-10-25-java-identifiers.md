@@ -3,6 +3,7 @@ layout: post
 title: 1Z0-803 Java Identifiers 
 permalink: 1Z0-803-java-identifiers
 comments: True
+published: False
 ---
 
 Legal identifiers are rules the Java compiler uses to check whether or not a name is legal.

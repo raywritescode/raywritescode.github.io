@@ -3,6 +3,7 @@ layout: post
 title: SICP - Milestone One Completed  
 permalink: sicp-milestone-one
 comments: True
+published: False
 ---
 
 Four days ago I completed my first *Structure and Interpretation of Computer Programs* (SICP) milestone, which was reading through the end of [section 1.1.7](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.7) and completing the first set of eight programming exercises that start in [section 1.1.6](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html#%_sec_1.1.6). 

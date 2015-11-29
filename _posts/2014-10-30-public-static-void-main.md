@@ -3,6 +3,7 @@ layout: post
 title: 1Z0-803 public static void main(String[ ] args) 
 permalink: 1Z0-803-public-static-void-main
 comments: True
+published: False
 ---
 
 <code>main()</code> is the method used by the Java Virtual Machine (JVM) to start execution of a Java application.
@@ -47,10 +48,10 @@ public class OverloadedMain
        "public static void main( String[] args ) STARTS" );
    }
 
-   public static void main( String a1, String a2 )
+   public static void main( String arg1, String arg2 )
    {
-      System.out.println(
-       "public static void main( String a1, String a2 ) NO start");
+      System.out.println( 
+       "public static void main( String arg1, String arg2 ) NO start");
    }
 }
 {% endhighlight %}
@@ -59,6 +60,6 @@ After compiling the source code and starting the application with the command
 
 <code>java OverloadedMain</code>
 
-the second defined <code>main()</code> method listed in the source code file is executed, which prints
+the second defined <code>main()</code> method listed in the source code is executed.
 
-    public static void main( String[] args ) STARTS
+    public static void main( String[] args ) called to START

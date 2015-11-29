@@ -3,6 +3,7 @@ layout: post
 title: My First Interactive Android App for 2014 
 permalink: first-interactive-android-app
 comments: True
+published: False
 ---
 
 Last night I wrote my first interactive Android app for 2014. It’s a simple app that displays a question and two answer buttons, and pops-up a message based on the button the user clicks. 

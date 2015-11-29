@@ -3,6 +3,7 @@ layout: post
 title: Algorithm - Exchange the Values of Two Variables
 permalink: algorithm-exchange-two
 comments: True
+published: False
 ---
 
 I'm currently taking a course on [Coursera](http://www.coursera.org) called [Learning How to Learn - Powerful Mental Tools to Help You Master Tough Subjects.](https://www.coursera.org/course/learning) This week's lecture is about [chunking](http://en.wikipedia.org/wiki/Chunking_%28psychology%29), which is a study technique of reducing large amounts of information into compact packages of information that your mind can easily access. 

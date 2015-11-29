@@ -3,6 +3,7 @@ layout: post
 title: SICP - Mise En Place 
 permalink: sicp-mise-en-place
 comments: True
+published: False
 ---
 
 *[Mise en place](http://youtu.be/RBqusvBlCb8?t=7s)* is a French phrase for "putting in place." It refers to the practice followed in professional kitchens of preparing and organizing the ingredients of a recipe before the cooking work begins. This blog post describes my *mise en place* for SICP study should you too want to start the SICP journey.

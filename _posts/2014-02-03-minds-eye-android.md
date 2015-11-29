@@ -3,6 +3,7 @@ layout: post
 title: The Mind's Eye - Android Activity Lifecycle 
 permalink: minds-eye-android
 comments: True
+published: False
 ---
 
 The first thing you need to understand when learning Android development is the Android Activity Lifecycle. The Android Activity Lifecycle are sequences of activities that the Android platform does to manage applications for you. 

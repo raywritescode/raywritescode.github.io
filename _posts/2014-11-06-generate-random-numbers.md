@@ -3,6 +3,7 @@ layout: post
 title: Generating Random Numbers 
 permalink: generate-random-numbers
 comments: True
+published: False
 ---
 
 While studying the code for various processing tasks typically handled with arrays, I found myself needing a quick way to generate a random set of integers to feed into the Java array applications that I'm writing.

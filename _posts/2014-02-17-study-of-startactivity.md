@@ -3,6 +3,7 @@ layout: post
 title: A Study of startActivity(Intent) 
 permalink: study-of-startactivity
 comments: True
+published: False
 ---
 
 To test my retained knowledge of Android development I attempted to create a simple application from scratch without using reference materials or the Android GUI Layout Manager.

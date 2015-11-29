@@ -3,6 +3,7 @@ layout: post
 title: The Business of Cards 
 permalink: business-cards 
 comments: True
+published: False
 ---
 
 Three weeks ago I thought about buying personal business cards to give out to people I meet at technical networking events. I found a site online, [Vistaprint](http://www.vistaprint.com/category/business-cards.aspx), offering 250 business cards on sale for $10. 

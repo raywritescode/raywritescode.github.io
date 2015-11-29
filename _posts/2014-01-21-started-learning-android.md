@@ -3,6 +3,7 @@ layout: post
 title: Started Learning Android Development Today 
 permalink: started-learning-android
 comments: True
+published: False
 ---
 
 Today I started learning Android development at [Coursera](https://www.coursera.org/). The course is called [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android). It’s an eight-week online course that kicked-off today and ends March 18.

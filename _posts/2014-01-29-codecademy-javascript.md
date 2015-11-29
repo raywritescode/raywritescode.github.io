@@ -3,6 +3,7 @@ layout: post
 title: Codecademy's JavaScript 
 permalink: codecademy-javascript
 comments: True
+published: False
 ---
 
 If you’re interested in getting a basic understanding of writing code using JavaScript before deciding whether or not to pursue learning the language further, I recommend you take the [JavaScript track](http://www.codecademy.com/tracks/javascript) offered for free on [Codecademy](http://www.codecademy.com/).

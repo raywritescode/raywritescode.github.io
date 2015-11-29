@@ -3,6 +3,7 @@ layout: post
 title: A Study of startActivityForResult(Intent, int) 
 permalink: study-of-startactivity-2
 comments: True
+published: False
 ---
 
 This second *A Study Of* exercise focuses on passing data between two activities using startActivityForResult(Intent, int) and its associated methods.
