@@ -16,6 +16,7 @@ My professional career is in software quality assurance and software testing. If
 * [GitHub](https://github.com/raywritescode)
 * [LinkedIn](http://www.linkedin.com/in/raywritescode)
 * [PGP Public Key](http://pgp.mit.edu/pks/lookup?op=get&search=0x5566F6D025842818)
+* [Twitter](https://twitter.com/raywritescode)
 
 -----
 
