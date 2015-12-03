@@ -10,5 +10,10 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-* 02 - Wednesday
-  - TODO: Finish Chapter 6 - Loops
+* **03 - Thursday** (Time invested: 0 min.)
+  - TODO: Complete Chapter 6 review.
+
+* **02 - Wednesday** (Time invested: 60 min.)
+  - Chapter 6 - Loops
+      * Section 6.2 The do Statement
+      * Section 6.3 The for Statement
