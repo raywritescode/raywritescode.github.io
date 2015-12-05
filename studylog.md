@@ -11,7 +11,13 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
 * **TODO** next study session
-   - Continue Chapter 7 at Section 7.3 Character Types
+   - Continue Chapter 7 at Programming Project 14, page 159.
+
+* **04 - Friday** (Time invested: 1 hour)
+  - Chapter 7 - Basic Types
+      * Section 7.3 Character Types
+      * Section 7.4 Type Conversion
+      * Section 7.5 Type Definitions
 
 * **03 - Thursday** (Time invested: 2 hours)
   - Chapter 7 - Basic Types 
