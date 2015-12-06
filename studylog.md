@@ -11,7 +11,11 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
 * **TODO** next study session
-   - Continue Chapter 7 at Programming Project 14, page 159.
+   - Continue Chapter 7 at Programming Project 15, page 159.
+
+* **05 - Saturday** (Time invested: 1.5 hours)
+  - Chapter 7 - Basic Types
+      * [Programming Project 14](https://github.com/raywritescode/cpma2/blob/master/ch07/c7p14.c)
 
 * **04 - Friday** (Time invested: 1 hour)
   - Chapter 7 - Basic Types
