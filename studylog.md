@@ -4,14 +4,22 @@ title: Study Log
 ---
 
 ### December 2015
+
 This month continues my refresher study of the C programming language to prepare for learning Objective-C starting January 1, 2016. 
 
 The book that I'm studying from is [C Programming: A Modern Approach, Second Edition](http://amzn.to/1O2vzz7) by K.N. King. 
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
+**Total study hours this month:** 8 hours
+
 * **TODO** next study session
-   - Continue Chapter 7 at Programming Project 15, page 159.
+   - Start Chapter 8 - Arrays
+
+* **06 - Sunday** (Time invested: 2.5 hours)
+  - Chapter 7 - Basic Types (**Completed**) [[github code repository for Chapter 7](https://github.com/raywritescode/cpma2/tree/master/ch07)]
+      * [Programming Project 15a (short variable)](https://github.com/raywritescode/cpma2/blob/master/ch07/c7p15a.c)
+      * Decided to skip sub-projects 15b through 15g.
 
 * **05 - Saturday** (Time invested: 1.5 hours)
   - Chapter 7 - Basic Types
