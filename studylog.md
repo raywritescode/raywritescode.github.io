@@ -14,7 +14,7 @@ The C source code written during these study sessions are available at [github.c
 **Total study hours this month:** 8 hours
 
 * **TODO** next study session
-   - Start Chapter 8 - Arrays
+   - Start reviewing Chapter 8 - Arrays
 
 * **06 - Sunday** (Time invested: 2.5 hours)
   - Chapter 7 - Basic Types (**Completed**) [[github code repository for Chapter 7](https://github.com/raywritescode/cpma2/tree/master/ch07)]
