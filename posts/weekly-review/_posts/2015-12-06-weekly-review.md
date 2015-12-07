@@ -20,5 +20,5 @@ publish: True
     * *Study Log* is the most active page on this site. It shows the progress of my coding studies and the time invested for each study session.
 
 * Coding and coding-related plans for this coming week:
-    * Review Chapter 8 of *C Programming: A Modern Approach, Second Edition.*
+    * Review Chapter 8 - Arrays of *C Programming: A Modern Approach, Second Edition.*
     * Install the 8GB memory kit and the 256GB SSD upgrades in the MacBook Pro.
