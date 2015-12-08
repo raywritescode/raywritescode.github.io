@@ -18,7 +18,7 @@ The C source code written during these study sessions are available at [github.c
       * Section 8.2 Multidimensional Arrays
       * Section 8.3 Variable-Length Arrays (C99)
 
-* **07 - Monday** (Time invested: 1.5 hour)
+* **07 - Monday** (Time invested: 1.5 hours)
   - Chapter 8 - Arrays
       * Section 8.1 One-Dimensional Arrays
 
