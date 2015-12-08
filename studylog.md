@@ -11,10 +11,16 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 8 hours
+**Total study hours this month:** 9.5
 
 * **TODO** next study session
-   - Start reviewing Chapter 8 - Arrays
+   - Chapter 8 - Arrays
+      * Section 8.2 Multidimensional Arrays
+      * Section 8.3 Variable-Length Arrays (C99)
+
+* **07 - Monday** (Time invested: 1.5 hour)
+  - Chapter 8 - Arrays
+      * Section 8.1 One-Dimensional Arrays
 
 * **06 - Sunday** (Time invested: 2.5 hours)
   - Chapter 7 - Basic Types (**Completed**) [[github code repository for Chapter 7](https://github.com/raywritescode/cpma2/tree/master/ch07)]
