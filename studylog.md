@@ -20,8 +20,7 @@ The C source code written during these study sessions are available at [github.c
 
 * **09 - Wednesday** (Time invested: 1.5 hours)
    - Chapter 8 - Arrays
-      * Programming Project 8, page 179
-          * In-progress: [Added code to get user's input and to display students' scores](https://github.com/raywritescode/cpma2/blob/2b8d48a5e8cf07e6247712b162645cac5540b524/ch08/c8p08.c)
+      * Programming Project 8, page 179 ([Code in progress](https://github.com/raywritescode/cpma2/blob/2b8d48a5e8cf07e6247712b162645cac5540b524/ch08/c8p08.c))
 
 * **08 - Tuesday** (Time invested: 1 hour)
   - Chapter 8 - Arrays
