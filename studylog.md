@@ -24,7 +24,7 @@ The C source code written during these study sessions are available at [github.c
 * **10 - Thursday** (Time invested: 2 hours)
    - Chapter 8 - Arrays
       * Programming Project 8, page 179 ([Code complete](https://github.com/raywritescode/cpma2/blob/c69a4f42c02f48ead60bba4225a353b8341ff463/ch08/c8p08.c))
-      * Programming Project 9, page 179 (Code in progress - [problem statement and initial code](https://github.com/raywritescode/cpma2/blob/71e6650367a1e49dae5444efcfea8846ca80deba/ch08/c8p09.c))
+      * Programming Project 9, page 179 (Code in progress - [problem statement and initial code](https://github.com/raywritescode/cpma2/commit/71e6650367a1e49dae5444efcfea8846ca80deba))
 
 * **09 - Wednesday** (Time invested: 1.5 hours)
    - Chapter 8 - Arrays
