@@ -11,16 +11,20 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 14
+**Total study hours this month:** 15
 
 * **TODO** next study session
    - Chapter 8 - Arrays
       * Finish Programming Project 9, page 179
 
+* **11 - Friday** (Time invested: 1 hour)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 (Code in progress - [added pseudocode](https://github.com/raywritescode/cpma2/commit/64c5f3678ea1db89356d88f78e4e35b0ff3c702d))
+
 * **10 - Thursday** (Time invested: 2 hours)
    - Chapter 8 - Arrays
       * Programming Project 8, page 179 ([Code complete](https://github.com/raywritescode/cpma2/blob/c69a4f42c02f48ead60bba4225a353b8341ff463/ch08/c8p08.c))
-      * Programming Project 9, page 179 ([Code in progress](https://github.com/raywritescode/cpma2/blob/71e6650367a1e49dae5444efcfea8846ca80deba/ch08/c8p09.c))
+      * Programming Project 9, page 179 (Code in progress - [problem statement and initial code](https://github.com/raywritescode/cpma2/blob/71e6650367a1e49dae5444efcfea8846ca80deba/ch08/c8p09.c))
 
 * **09 - Wednesday** (Time invested: 1.5 hours)
    - Chapter 8 - Arrays
