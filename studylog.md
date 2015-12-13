@@ -11,11 +11,15 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 15
+**Total study hours this month:** 15.5
 
 * **TODO** next study session
    - Chapter 8 - Arrays
       * Finish Programming Project 9, page 179
+
+* **12 - Saturday** (Time invested: 30 minutes)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 (Code in progress - [populates and displays 10x10 matrix of '.' character](https://github.com/raywritescode/cpma2/commit/a733f298569faae97769abf016ca16a01284df20))
 
 * **11 - Friday** (Time invested: 1 hour)
    - Chapter 8 - Arrays
