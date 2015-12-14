@@ -11,11 +11,15 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 15.5
+**Total study hours this month:** 16
 
 * **TODO** next study session
    - Chapter 8 - Arrays
       * Finish Programming Project 9, page 179
+
+* **13 - Sunday** (Time invested: 30 minutes)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 (Code in progress - [puts A through Z in random cells](https://github.com/raywritescode/cpma2/commit/9bdc3a6fbecbde540c96404c24b77a701e7532f1))
 
 * **12 - Saturday** (Time invested: 30 minutes)
    - Chapter 8 - Arrays
