@@ -11,11 +11,16 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 18
+**Total study hours this month:** 21 
 
 * **TODO** next study session
    - Chapter 8 - Arrays
       * Finish Programming Project 9, page 179
+
+* **15 - Tuesday** (Time invested: 3 hours)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 (Code in progress - [rewrote the code, which made the program less correct](https://github.com/raywritescode/cpma2/commit/571e3c929eba06e35a8e9c59f978fd90c9bba7aa).
+      * If I don't get the program running correctly by end of next study session, then I'm going stop work on Project 9 and move to *Chapter 9*.
 
 * **14 - Monday** (Time invested: 2 hours)
    - Chapter 8 - Arrays
