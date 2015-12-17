@@ -11,16 +11,17 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 23 
+**Total study hours this month:** 23.5 
 
 * **TODO** next study session
    - Chapter 8 - Arrays
-      * Finish Programming Project 9, page 179
+      * Refactor Programming Project 9, page 179 (spend about 1 hour max.)
+   - Begin reviewing Chapter 9 - Functions     
 
-* **16 - Wednesday** (Time invested: 2 hours)
+* **16 - Wednesday** (Time invested: 2.5 hours)
    - Chapter 8 - Arrays
-      * Programming Project 9, page 179 (Code in progress - [third complete rewrite of the code. Works perfectly if a letter isn't trapped. Infinite loop otherwise. Getting close to solving this problem](https://github.com/raywritescode/cpma2/commit/fe31e1146fe30da40f916b22543e5098f3ffb1fe))
-      * I'm **so close** to coding a solution for this programming project. Sticking with it until it's solved.
+      * Programming Project 9, page 179 ([Code complete](https://github.com/raywritescode/cpma2/blob/158446d0e4613d8ad70b0a08ec95bc775f31bd74/ch08/c8p09.c))
+      * Code now solves the programming project. However, I'm thinking about refactoring the code at the next study session.
 
 * **15 - Tuesday** (Time invested: 3 hours)
    - Chapter 8 - Arrays
