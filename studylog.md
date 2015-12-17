@@ -11,11 +11,16 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 21 
+**Total study hours this month:** 23 
 
 * **TODO** next study session
    - Chapter 8 - Arrays
       * Finish Programming Project 9, page 179
+
+* **16 - Wednesday** (Time invested: 2 hours)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 (Code in progress - [third complete rewrite of the code. Works perfectly if a letter isn't trapped. Infinite loop otherwise. Getting close to solving this problem](https://github.com/raywritescode/cpma2/commit/fe31e1146fe30da40f916b22543e5098f3ffb1fe))
+      * I'm **so close** to coding a solution for this programming project. Sticking with it until it's solved.
 
 * **15 - Tuesday** (Time invested: 3 hours)
    - Chapter 8 - Arrays
