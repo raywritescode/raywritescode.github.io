@@ -11,12 +11,15 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 23.5 
+**Total study hours this month:** 24.5 
 
 * **TODO** next study session
-   - Chapter 8 - Arrays
-      * Refactor Programming Project 9, page 179 (spend about 1 hour max.)
    - Begin reviewing Chapter 9 - Functions     
+
+* **17 - Thursday** (Time invested: 1 hour)
+   - Chapter 8 - Arrays
+      * Programming Project 9, page 179 ([Code complete](https://github.com/raywritescode/cpma2/blob/dadd8e5b2f54e5246f911b8e89858fa579b88ba2/ch08/c8p09.c))
+      * Refactored the code to make it more correct. Also, for each move the program does, the chosen direction and next letter are displayed. 
 
 * **16 - Wednesday** (Time invested: 2.5 hours)
    - Chapter 8 - Arrays
