@@ -11,10 +11,17 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 24.5 
+**Total study hours this month:** 25.5 
 
 * **TODO** next study session
-   - Begin reviewing Chapter 9 - Functions     
+   - Continue reviewing Chapter 9 - Functions     
+      * Finish reading the remaining chapter and execute the code examples.
+      * Begin work on the chapter's programming projects.
+
+* **18 - Friday** (Time invested: 1 hour)
+   - Chapter 9 - Functions
+      * Section 9.1 Defining and Calling Functions
+      * Section 9.2 Function Declarations 
 
 * **17 - Thursday** (Time invested: 1 hour)
    - Chapter 8 - Arrays
