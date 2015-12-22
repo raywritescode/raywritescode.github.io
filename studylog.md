@@ -11,12 +11,17 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 26.5 
+**Total study hours this month:** 27.5 
 
 * **TODO** next study session
    - Continue reviewing Chapter 9 - Functions     
       * Finish reading the remaining chapter and execute the code examples.
-      * Begin work on the chapter's programming projects.
+
+* **21 - Monday** (Time invested: 1 hour)
+   - Chapter 9 - Functions
+      * Section 9.3 Arguments, sub-section Array Arguments
+         - Further examining the code snippet given on page 196 illustrating the use of one-dimensional arrays.
+         - I wrote a [working example of the code snippet](https://github.com/raywritescode/cpma2/blob/632582ed35bba4ceb595812b1e5fa75457d5288f/ch09/review/one_dim_array_arg.c) to practice writing code that uses a one-dimensional array in a function.
 
 * **20 - Sunday** (Time invested: 30 minutes)
    - Chapter 9 - Functions
