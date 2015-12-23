@@ -11,11 +11,18 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 27.5 
+**Total study hours this month:** 28 
 
 * **TODO** next study session
    - Continue reviewing Chapter 9 - Functions     
       * Finish reading the remaining chapter and execute the code examples.
+
+* **22 - Tuesday** (Time invested: 30 minutes)
+   - Chapter 9 - Functions
+      * Section 9.3 Arguments, sub-section Array Elements
+         - Examined modified versions of the code that I wrote yesterday:
+         * Function is told that its [array elements size is less than it really is](https://github.com/raywritescode/cpma2/blob/90680c67d7336f50d08b8b9961eda6666c6f7bce/ch09/review/one_dim_array_arg_smaller.c).
+         * Function is told that its [array elements size is larger than it really is](https://github.com/raywritescode/cpma2/blob/8c5240094334c61e03c304e85ea936b4219a4b3c/ch09/review/one_dim_array_arg_larger.c).
 
 * **21 - Monday** (Time invested: 1 hour)
    - Chapter 9 - Functions
