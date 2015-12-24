@@ -11,11 +11,17 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 28 
+**Total study hours this month:** 28.5 
 
 * **TODO** next study session
    - Continue reviewing Chapter 9 - Functions     
       * Finish reading the remaining chapter and execute the code examples.
+
+* **23 - Wednesday** (Time invested: 30 minutes)
+   - Chapter 9 - Functions
+      * Section 9.3 Arguments, sub-section Array Elements
+         - Exploring how a function is allowed to change the elements of an array parameter.
+         - [change_array.c](https://github.com/raywritescode/cpma2/blob/39401b0ec868bd8198287deea091178d91f59288/ch09/review/change_array.c)
 
 * **22 - Tuesday** (Time invested: 30 minutes)
    - Chapter 9 - Functions
