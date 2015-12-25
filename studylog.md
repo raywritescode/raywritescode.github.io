@@ -11,11 +11,17 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 28.5 
+**Total study hours this month:** 29 
 
 * **TODO** next study session
    - Continue reviewing Chapter 9 - Functions     
       * Finish reading the remaining chapter and execute the code examples.
+
+* **24 - Thursday** (Time invested: 30 minutes)
+   - Chapter 9 - Functions
+      * Section 9.3 Arguments, sub-section Array Elements
+         - Exploring using a multidimensional array as a function parameter.
+         - [multi-dim-array_arg.c](https://github.com/raywritescode/cpma2/blob/183734364152c954e01c9708c45b0697cb76a0ab/ch09/review/multi_dim_array_arg.c)
 
 * **23 - Wednesday** (Time invested: 30 minutes)
    - Chapter 9 - Functions
