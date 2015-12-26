@@ -17,6 +17,8 @@ The C source code written during these study sessions are available at [github.c
    - Continue reviewing Chapter 9 - Functions     
       * Finish reading the remaining chapter and execute the code examples.
 
+* **25 - Friday** (Christmas Day coding holiday)
+
 * **24 - Thursday** (Time invested: 30 minutes)
    - Chapter 9 - Functions
       * Section 9.3 Arguments, sub-section Array Elements
