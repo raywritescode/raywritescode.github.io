@@ -12,7 +12,7 @@ publish: True
 
 * In the previous *Week Ending* post I wrote that I'm taking a short break from coding studies. Total hours this week spent on coding studies is zero. 
 
-    This is a blog about coding. Because I don't have any coding specific work from this week to write about, I'll write about *Star Wars*, video gaming, and cars.  
+    This is a blog about coding. Because I don't have any coding specific work from this week to write about, I'll write about non-coding topics: *Star Wars*, video gaming, and cars.  
 
 * I watched [Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496) and I'm glad that I paid an extra $5 above standard movie ticket fee to watch it on an extra-wide screen and with an enhanced sound system. 
 
