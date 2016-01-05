@@ -18,9 +18,9 @@ publish: True
 
     The special effects were top-notch and I liked all the new characters that were introduced. Seeing characters from the earlier *Star Wars* movies gave me a sense of nostalgia. The storyline gave me many moments of deja vu mostly connected to the original 1977 *Star Wars (A New Hope)*. 
 
-* I've never been interested in video games because the hours spent playing video games seemed like a waste of time. 
+* Until this week I wasn't interested in video games because the hours spent playing video games seemed like a waste of time. 
 
-    Earlier this week I got a hold of [Sony PlayStation 4 (PS4) and Call of Duty: Black Ops III bundle](http://www.amazon.com/gp/product/B018V3ISJ2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018V3ISJ2&linkCode=as2&tag=6767151-20&linkId=WJ2KM62EINL6GV5M) for less than $300 out-the-door. I'd been contemplating buying a gaming console for several months. 
+    Earlier this week I got a hold of [Sony PlayStation 4 (PS4) and Call of Duty: Black Ops III bundle](http://www.amazon.com/gp/product/B018V3ISJ2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018V3ISJ2&linkCode=as2&tag=6767151-20&linkId=WJ2KM62EINL6GV5M) for less than $300 out-the-door. I'd been contemplating buying a gaming console for several months and the heavily discounted holiday sales price encouraged me to buy it. 
 
     After I connected the PS4 to my television and got *Black Ops III* running, I intended to explore the game for about 15 minutes. After what felt like 15 minutes I glanced at my watch and found that 60 minutes had passed. I ended up playing *Black Ops III* for another hour.
 
@@ -63,3 +63,6 @@ publish: True
     When my brother and I were teenagers our dad taught us how to diagnose and how to fix car problems. I'm able to fix most car problems that don't require the engine to be removed from the car (only because I don't have access to an engine lift). 
 
     For one of many things, I'm forever thankful to [my dad](http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Feliciano+%22Chano%22-Santos&lc=4619&pid=173189675&mid=6199203) for teaching me auto repair.
+
+* Coding and coding-related plans for this coming week:
+    * Finish reviewing *Chapter 9 - Functions* of [C Programming: A Modern Approach, Second Edition](http://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393979504&linkCode=as2&tag=6767151-20&linkId=FXGSFN72DGVZSLIR) and start working on the chapter's Programming Projects.
