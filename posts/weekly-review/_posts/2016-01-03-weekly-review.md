@@ -14,7 +14,7 @@ publish: True
 
     This is a blog about coding. Because I don't have any coding specific work from this week to write about, I'll write about non-coding topics: *Star Wars*, video gaming, and cars.  
 
-* I watched [Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496) and I'm glad that I paid an extra $5 above standard movie ticket fee to watch it on an extra-wide screen and with an enhanced sound system. 
+* I watched [Star Wars: The Force Awakens](http://www.imdb.com/title/tt2488496) and I'm glad that I paid an extra $5 above the standard movie ticket price to watch it on an extra-wide screen and with an enhanced sound system. 
 
     The special effects were top-notch and I liked all the new characters that were introduced. Seeing characters from the earlier *Star Wars* movies gave me a sense of nostalgia. The storyline gave me many moments of deja vu mostly connected to the original 1977 *Star Wars (A New Hope)*. 
 
@@ -40,7 +40,7 @@ publish: True
 
     Now that I see value in video games (depending on the genre) and that I'm open to playing video games, my second daughter, Claire, wants me to play [League of Legends](http://na.leagueoflegends.com), which is her favorite game. I've gone as far as to install *League of Legends* on my laptop computer. As of this writing I haven't played the game.
 
-    One of my [nephews is a professional *League of Legends* gamer](http://lol.esportspedia.com/wiki/Rhux).
+    One of my nephews, [Keenan](http://lol.esportspedia.com/wiki/Rhux), is a professional *League of Legends* gamer.
 
 * Cars to me are merely a tool to get me from point A to point B. I currently drive a 1998 Honda Accord DX, of which I am the third owner. I've owned the car since June 2015. 
 
