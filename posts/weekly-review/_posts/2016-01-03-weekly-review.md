@@ -58,11 +58,13 @@ publish: True
 
     * Rains were forecasted for the upcoming week so I put new windshield wiper blades on the Accord. I also rotated the Accord's tires and inflated the tires to 35 PSI. Oil, radiator, and windshield wiper fluids were at the correct levels.   
 
-    After my dad retired from the Navy he started his own auto repair business. 
+    After my dad retired from the Navy he started his own auto repair business. When my brother and I were teenagers our dad taught us how to diagnose and how to fix car problems.
 
-    When my brother and I were teenagers our dad taught us how to diagnose and how to fix car problems. I'm able to fix most car problems that don't require the engine to be removed from the car (only because I don't have access to an engine lift). 
+    I'm able to fix most car problems that don't require the engine to be removed from the car (only because I don't have access to an engine lift). I have to be in the right mood to do car repairs, hence it taking me three months to address the Accord's three problems. 
 
-    For one of many things, I'm forever thankful to [my dad](http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Feliciano+%22Chano%22-Santos&lc=4619&pid=173189675&mid=6199203) for teaching me auto repair.
+    I'll initially want to take the car to an auto repair shop before telling myself to do the work myself. When I start doing the auto repair work I enjoy the activity.  
+
+    For one of many things that he taught me, I'm forever thankful to [my dad](http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Feliciano+%22Chano%22-Santos&lc=4619&pid=173189675&mid=6199203) for teaching me auto repair.
 
 * Coding and coding-related plans for this coming week:
     * Finish reviewing *Chapter 9 - Functions* of [C Programming: A Modern Approach, Second Edition](http://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393979504&linkCode=as2&tag=6767151-20&linkId=FXGSFN72DGVZSLIR) and start working on the chapter's Programming Projects.
