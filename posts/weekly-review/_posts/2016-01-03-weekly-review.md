@@ -36,7 +36,7 @@ publish: True
 
     I found myself enjoying playing *Splinter Cell* much more than *Call of Duty* because *Splinter Cell* drops you in the middle of a hostile environment, with little or no guidance on how to solve the given problem, and you must solve the problem as efficiently as possible and without disturbing the environment that your character is in.
 
-    The planning, patience, and creating thinking needed to complete a *Splinter Cell* mission objective undetected reminds me of the planning, patience, and creative thinking needed to complete the more challenging C programming projects. 
+    The planning, patience, and creative thinking needed to complete a *Splinter Cell* mission objective undetected reminds me of the planning, patience, and creative thinking needed to complete the more challenging C programming projects. 
 
     Now that I see value in video games, depending on the genre, and that I'm open to playing video games, my second daughter, Claire, wants me to play [League of Legends](http://na.leagueoflegends.com), which is her favorite game. I've gone as far as install *League of Legends* on my laptop computer. As of this writing I haven't played the game.
 
