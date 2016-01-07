@@ -3,6 +3,31 @@ layout: page
 title: Study Log
 ---
 
+### January 2016
+
+This month continues my refresher study of the C programming language that was started last month. I originally planned on switching to learning Objective-C starting at the beginning of this new year. Studying the C language has been fun and I want to continue to pointers and to file I/O.
+
+The book that I'm studying from is [C Programming: A Modern Approach, Second Edition](http://amzn.to/1O2vzz7) by K.N. King.
+
+The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
+
+**Total study hours this month:** 2
+
+* **TODO** next study session
+   - Continue reviewing Chapter 9 - Functions
+      * Finish reading the remaining chapter and execute the code examples.
+
+* **06 - Wednesday** (Time invested: 2 hours)
+   - Chapter 9 - Functions
+      * I started reviewing chapter 9 from the beginning because my last study session was 12 days ago. Today's study session ended at *Section 9.3 Arguments*, before sub-section *Argument Conversions* on page 194.
+      * I learned that the printf function returns the number of characters that it prints. [numprint.c](https://github.com/raywritescode/cpma2/blob/master/ch09/review/numprint.c)
+      * I also gained a better understanding of C passing arguments to functions by value.
+         - [raise1.c](https://github.com/raywritescode/cpma2/blob/74a9122cc9c0ec5848adeff570016845d0484d2c/ch09/review/raise1.c)
+         - [raise2.c](https://github.com/raywritescode/cpma2/blob/45e914475dedcbc3b286df9d4be7481aad7bd11c/ch09/review/raise2.c)
+   - My new [Objective-C programming book](http://www.amazon.com/gp/product/0321967607/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321967607&linkCode=as2&tag=6767151-20&linkId=4Q5HULKJNBJI4WYB) arrived today.  
+
+-----
+
 ### December 2015
 
 This month continues my refresher study of the C programming language to prepare for learning Objective-C starting January 1, 2016. 
