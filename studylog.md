@@ -11,11 +11,22 @@ The book that I'm studying from is [C Programming: A Modern Approach, Second Edi
 
 The C source code written during these study sessions are available at [github.com/raywritescode/cpma2](https://github.com/raywritescode/cpma2)
 
-**Total study hours this month:** 2
+**Total study hours this month:** 3.5
 
 * **TODO** next study session
    - Continue reviewing Chapter 9 - Functions
-      * Finish reading the remaining chapter and execute the code examples.
+      * Section 9.3 Arguments
+         - Variable-Length Array Parameters (two dimensional arrays)
+         - Using static in Array Parameter Declarations
+         - Compound Literals
+      * Section 9.4 The return Statement
+
+* **07 - Thursday** (Time invested: 1.5 hours)
+   - Chapter 9 - Functions
+      * Section 9.3 Arguments
+         - Argument Conversions
+         - Array Arguments
+         - Variable-Length Array Parameters. [variable-length-array.c](https://github.com/raywritescode/cpma2/blob/97d041b921807863af92460d262988179a390ac1/ch09/review/variable_length_array.c)
 
 * **06 - Wednesday** (Time invested: 2 hours)
    - Chapter 9 - Functions
