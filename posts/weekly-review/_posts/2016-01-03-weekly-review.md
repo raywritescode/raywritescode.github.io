@@ -3,7 +3,7 @@ layout: post
 title: Week Ending 2016-01-03  
 permalink: week-ending-2016-01-03
 comments: True
-publish: False 
+published: False 
 ---
 
 * **Happy Birthday, Alyza!** 
