@@ -9,7 +9,9 @@ permalink:        pretty
 title:            Ray.writes.code( ) 
 tagline:          
 url:              http://www.raywritescode.com
-paginate:         1
+gems:
+  - jekyll-paginate
+  
 baseurl:          /
 author:
   name:           Ray Santos
