@@ -28,7 +28,7 @@ This blog post is my first step toward improving my knowledge about those topics
 
 ### What happens when you enter a URL into the browser?
 
-<center>![Entering a URL](/images/2015-02-06_01.png)</center>
+![Entering a URL](/images/2015-02-06_01.png)
 
 1. The browser searches for the IP address that is associated to the *www.raywritescode.net* URL. It does this by scanning through a series of [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) lookup tables until it finds a DNS lookup table that associates the URL to an IP address.  The DNS lookup sequence is:  
   * browser checks its [cached](http://en.wikipedia.org/wiki/Cache_%28computing%29) [DNS records](http://en.wikipedia.org/wiki/List_of_DNS_record_types). If the URL's IP address is found, go to step 2. Otherwise, search the operating system's cache.
@@ -38,34 +38,34 @@ This blog post is my first step toward improving my knowledge about those topics
   * browser does a recursive search for the IP starting from the top of the root server and works its way down the worldwide DNS server hierarchy. If an IP address is found for the URL, go to step 2. Otherwise, the browser displays a DNS error page.
   
 2. After the browser gets the IP address of the URL it uses the IP address to communicate with the [web resource](http://en.wikipedia.org/wiki/Web_resource) at the IP address. 
-  * The web resource at [www.raywritescode.net](http://www.raywritescode.net) is a web server running on a [Raspberry Pi](http://www.raspberrypi.org/) computer located in my [micro data center](http://www.raywritescode.com/micro-data-center/) at home. <center>![www.raywritescode.net raspberry pi](/images/2015-02-06_02.png)</center>
+  * The web resource at [www.raywritescode.net](http://www.raywritescode.net) is a web server running on a [Raspberry Pi](http://www.raspberrypi.org/) computer located in my [micro data center](http://www.raywritescode.com/micro-data-center/) at home. ![www.raywritescode.net raspberry pi](/images/2015-02-06_02.png)
   * The web browser connects to [port](http://en.wikipedia.org/wiki/Port_%28computer_networking%29#Common_port_numbers) 80 (used for [HTTP](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) communications) on the web server using the [TCP protocol](http://en.wikipedia.org/wiki/Transmission_Control_Protocol).  
 
-3. After the browser establishes a connection to the web server it sends an HTTP GET request.<center>![First HTTP GET request](/images/2015-02-06_03.png)</center>
+3. After the browser establishes a connection to the web server it sends an HTTP GET request. ![First HTTP GET request](/images/2015-02-06_03.png)
   * **GET** identifies the URL to use. Note the trailing slash `/` added to `http://www.raywritescode.net`. The trailing slash tells the web server to respond with the `index.html` file located in the web site's root `/` directory.
   * **User-Agent** identifies the web browser being used. 
   * **Accept** identifies what type of responses the browser will accept, which in this case is a text file containing [HTML](http://en.wikipedia.org/wiki/HTML) code.
 
 4. The web server handles (or responds to) the GET request by sending back to the web browser a response that contains the HTML code contained in *www.raywritescode.net*'s `index.html` file.
-  * The `index.html` file in the web site's root `/` directory on the web server contains the following HTML code.<center>![Contents of the web server's index.html file](/images/2015-02-06_04.png)</center>
-  * The web server responds to the browser's initial GET request with the following:<center>![Web server's response to the browser's initial GET request](/images/2015-02-06_05.png)</center>
+  * The `index.html` file in the web site's root `/` directory on the web server contains the following HTML code. ![Contents of the web server's index.html file](/images/2015-02-06_04.png)
+  * The web server responds to the browser's initial GET request with the following: ![Web server's response to the browser's initial GET request](/images/2015-02-06_05.png)
   * **200 OK** on the first line of the response is the [status code](http://www.w3.org/Protocols/HTTP/HTRESP.html). For each request that a web server receives from a web client (in this case, the web browser) it sends a status code that tells the client what happened to the client's request. **200 OK** means that the request (sending the HTML code shown in the response) was fulfilled successfully.  
 
 5. The web browser converts to visual form the received HTML code into the [user interface](http://en.wikipedia.org/wiki/User_interface) (or UI) elements that will be displayed in the browser. If, while converting the HTML code, the browser encounters embedded objects in the code, the browser sends additional GET requests for those objects to the web server.
   * The `index.html` file's HTML code for *www.raywritescode.net* uses an image file called `raywritescode-net.png` which is located in the web site's root `/` directory on the web server. 
-  * The browser needs the image file to display the image in the browser, so it sends the following second GET request to the web server.<center>![Second HTTP GET request](/images/2015-02-06_06.png)</center>
+  * The browser needs the image file to display the image in the browser, so it sends the following second GET request to the web server. ![Second HTTP GET request](/images/2015-02-06_06.png)
   * As in Step 3, the **GET** identifies the URL to use. The trailing `/raywritescode-net.png` tells the web server to respond with the `raywritescode-net.png` file located in the web site's root `/` directory.
   * **Accept** identifies that the type of response the browser will accept for the GET request is an image file.
 
-6. The web server handles this second GET request by sending back to the web browser a response that contains the `raywritescode-net.png` image file.<center>![Web server's response to the browser's second GET request](/images/2015-02-06_07.png)</center>
+6. The web server handles this second GET request by sending back to the web browser a response that contains the `raywritescode-net.png` image file. ![Web server's response to the browser's second GET request](/images/2015-02-06_07.png)
   * The web server returns status code **200 OK** to the web browser, which indicates the browser's GET request for the [png](http://en.wikipedia.org/wiki/Portable_Network_Graphics) image file (identified by **Content-Type**) was fulfilled successfully.
-  * Attached to the response is the `raywritescode-net.png` file, which contains the following image:<center>![raywritescode-net image](/images/2015-02-06_08.png)</center>
+  * Attached to the response is the `raywritescode-net.png` file, which contains the following image: ![raywritescode-net image](/images/2015-02-06_08.png)
 
 7. The web browser received **200 OK** status codes from the web server for all the GET requests it sent. It has everything it needs to display the web server's home page content in the browser:
   * The web site's title of `ray.writes.code( )`, taken from the HTML `<title>` tag in the received `index.html` file.
   * The web site's home page image file.
 
-<center>![www.raywritescode.net home page](/images/2015-02-06_09.png)</center>
+![www.raywritescode.net home page](/images/2015-02-06_09.png)
 
 ### Conclusion
 
