@@ -21,7 +21,6 @@ pages_list:
   About: '/about'
   Archives: '/archives'
   Bookshelf: '/bookshelf'
-  Study Log: '/studylog'
 
 # Custom vars
 version:          1.0.0
