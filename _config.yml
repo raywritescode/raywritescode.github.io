@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+theme:            minima
 highlighter:      rouge
 
 # Permalinks
@@ -9,13 +10,13 @@ permalink:        pretty
 title:            Ray.writes.code( ) 
 tagline:          
 url:              http://www.raywritescode.com
-gems:
-  - jekyll-paginate
+paginate:         5
+gems:             
+    - jekyll-paginate             
   
 baseurl:          /
 author:
   name:           Ray Santos
-  url:            https://twitter.com/raywritescode
   email:          ray@raywritescode.com
 pages_list:
   About: '/about'
