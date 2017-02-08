@@ -1,10 +1,11 @@
-.DS_Store
-_site
-.project
-*.swp
 .idea
-*.iml
+.project
+.sass-cache
+.DS_Store
 _drafts
-post-template.md
 _drafts_hold
+_site
 *.ep
+*.iml
+*.swp
+post-template.md
