@@ -11,7 +11,7 @@ Luckily, J had made a back-up of his computer one week before the crash. He said
 
 J's story got me thinking about the last time I made a back-up of my current home computer's data, which was never. If my computer crashed that afternoon I'd lose two year's (or 53 GB) worth of documents, pictures, and video files.
 
-It wasn't until last weekend when I pulled out a one-year old [Raspberry Pi] (http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) (RPi) computer from a closet shelf did I decide to put a computer back-up solution into place.
+It wasn't until last weekend when I pulled out a one-year old [Raspberry Pi](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) (RPi) computer from a closet shelf did I decide to put a computer back-up solution into place.
 
 I decided to make a Raspberry Pi NAS (Network-attached Storage).
 
@@ -30,11 +30,11 @@ I have the Raspberry Pi Model B, which has:
 * one GPIO (general purpose input/output) interface.
 * one microUSB power port.
 
-I bought the Raspberry Pi computer on December 4, 2012 from [Newark/Element14] (http://www.element14.com/community/community/raspberry-pi) after reading various hardware tech articles about the many interesting projects you can make with the RPi.
+I bought the Raspberry Pi computer on December 4, 2012 from [Newark/Element14](http://www.element14.com/community/community/raspberry-pi) after reading various hardware tech articles about the many interesting projects you can make with the RPi.
 
 ## NAS (Network-attached Storage)
 
-From [wikipedia] (https://en.wikipedia.org/wiki/Network-attached_storage), "a NAS unit is a computer connected to a network that provides only file-based data storage services to other devices on the network."
+From [wikipedia](https://en.wikipedia.org/wiki/Network-attached_storage), "a NAS unit is a computer connected to a network that provides only file-based data storage services to other devices on the network."
 
 Up until the Raspberry Pi NAS project idea came to mind, I've always kept all of my data files on my main computer (current and previous) in various sub-folders inside folder `C:\_docs\Documents YYYY`, where `YYYY` is the current year.
 
