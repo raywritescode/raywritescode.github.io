@@ -9,7 +9,7 @@ At a lunch get-together three weeks ago with my friends J and H, J told us that 
 
 Luckily, J had made a back-up of his computer one week before the crash. He said it was a hassle getting his computer back to its pre-crash state and that having the back-up to restore from made the task less painful.
 
-J's story got me thinking about the last time I made a back-up of my current home computer's data, which was never. If my computer crashed that afternoon I'd lose two year's (or 53 GB) worth of documents, pictures, and video files.
+J's story got me thinking about the last time I made a back-up of my current home computer's data, which was never. If my computer crashed that afternoon I'd lose two years (or 53 GB) worth of documents, pictures, and video files.
 
 It wasn't until last weekend when I pulled out a one-year old [Raspberry Pi](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) (RPi) computer from a closet shelf did I decide to put a computer back-up solution into place.
 
