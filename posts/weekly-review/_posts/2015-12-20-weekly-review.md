@@ -2,7 +2,6 @@
 layout: post
 title: Week Ending 2015-12-20  
 permalink: week-ending-2015-12-20
-comments: True
 publish: True
 ---
 
@@ -15,9 +14,13 @@ publish: True
     For the third version of the code I asked myself what steps I'd tell a five year-old to do in order solve the problem. Using this approach I coded a working solution from scratch in 2.5 hours. I decided to spend another hour in the next study session refactoring the code to make it more correct.
 
     The four versions of the code are on github at the following links:
+
     * [Version 1](https://github.com/raywritescode/cpma2/blob/40dcac2fd327ca42efca7e00168f445e4d623ca5/ch08/c8p09.c) - Almost walks A through Z in connected sequence.
+
     * [Version 2](https://github.com/raywritescode/cpma2/blob/571e3c929eba06e35a8e9c59f978fd90c9bba7aa/ch08/c8p09.c) - Rewrote the code, which made the program less correct.  
+
     * [Version 3](https://github.com/raywritescode/cpma2/blob/158446d0e4613d8ad70b0a08ec95bc775f31bd74/ch08/c8p09.c) - Code now solves the programming problem.
+
     * [Version 4](https://github.com/raywritescode/cpma2/blob/dadd8e5b2f54e5246f911b8e89858fa579b88ba2/ch08/c8p09.c) - Final version. Refactored Version 3 to make it more correct.
 
 * After completing nine of the 17 programming projects in Chapter 8 I decided to move forward to *Chapter 9 - Functions*.
