@@ -3,6 +3,7 @@ layout: post
 title: Let's Git It On 
 permalink: lets-git-it-on
 comments: True
+published: False
 ---
 
 This blog post is for you if you're interested in using a source code version control system for your personal programming projects .
