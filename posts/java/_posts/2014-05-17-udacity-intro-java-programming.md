@@ -3,6 +3,7 @@ layout: post
 title: Udacity's Intro to Programming - Problem Solving with Java 
 comments: True
 permalink: udacity-intro-java-programming-review
+published: False
 ---
 
 [Udacity](http://www.udacity.com), in collaboration with [San Jose State University](http://www.sjsu.edu/), offers an [Intro to Programming: Problem Solving with Java](https://www.udacity.com/course/cs046) course that I’ve recommended to friends and colleagues who are non-programmers and who are interested in learning about computer programming.

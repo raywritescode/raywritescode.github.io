@@ -3,6 +3,7 @@ layout: post
 title: Raspberry Pi NAS 
 comments: True
 permalink: raspberry-pi-nas 
+published: False
 ---
 
 At a lunch get-together three weeks ago with my friends J and H, J told us that the hard drive on his home laptop computer had recently crashed. 

@@ -3,6 +3,7 @@ layout: post
 title: Off-site Backup Server 
 permalink: offsite-backup-server
 comments: True
+published: False
 ---
 
 In my [Raspberry Pi NAS blog post](http://www.raywritescode.com/raspberry-pi-nas/) I wrote about how the data on my main computer at home had never been backed-up since buying the computer two years ago. 53 GB worth of data would be lost if the hard drive crashed. I decided to create a backup solution using Raspberry Pi computers.

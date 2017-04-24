@@ -3,6 +3,7 @@ layout: post
 title: Contacting a Web Site  
 permalink: contacting-a-web-site
 comments: True
+published: False
 ---
 
 Last week someone asked me "What are the differences between [SOAP](http://en.wikipedia.org/wiki/SOAP) and [REST](http://en.wikipedia.org/wiki/Representational_state_transfer)?" and I wasn't able to provide an answer, which irked me for the rest of the day. I knew that SOAP originally stood for *Simple Object Access Protocol* and, after getting a reminder from the person asking me the question, that SOAP uses [XML](http://en.wikipedia.org/wiki/XML). 

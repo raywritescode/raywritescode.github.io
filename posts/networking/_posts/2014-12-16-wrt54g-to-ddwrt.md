@@ -3,6 +3,7 @@ layout: post
 title: Linksys WRT54G to DD-WRT  
 permalink: wrt54g-to-ddwrt
 comments: True
+published: False
 ---
 Last weekend while decluttering my home I found an unused 2006 Linksys WRT54G router. The router came from my parents' house where, until March 2014, it provided nearly flawless wired and wireless routing service for three years.
 

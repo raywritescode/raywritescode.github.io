@@ -3,6 +3,7 @@ layout: post
 title: Coursera's Programming Mobile Applications for Android Handheld Systems 
 permalink: coursera-pma-android
 comments: True
+published: False
 ---
 
 Last week I completed the University of Maryland’s eight-week [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android) course through [Coursera](https://www.coursera.org/). 

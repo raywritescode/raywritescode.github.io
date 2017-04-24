@@ -3,6 +3,7 @@ layout: post
 title: Micro Data Center
 comments: True 
 permalink: micro-data-center
+published: False
 ---
 
 In the [previous blog post](http://www.raywritescode.com/raspberry-pi-nas/) you were introduced to my Raspberry Pi (RPi) NAS. 
