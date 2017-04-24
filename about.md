@@ -5,33 +5,21 @@ title: About
 
 Hello, World.
 
-May I call you "World?"
+My name's Ray. 
 
-That sounded wierd. How about...
+Learning how to write code that makes a computer do interesting things and to solve problems is one of my favorite hobbies. 
 
-Hello, Friend.
+There are hundreds of programming languages to choose from. 
 
-May I call you "Friend?"
+I'm most interested in the following three languages:
 
-My name is Ray.
+* C (a procedural language)
+* Java (an object-oriented language)
+* Scheme (a functional language)
 
-*Ray.writes.code( )* is a collection of my written thoughts, random notes, and personal projects logs related to software development.
+For each published post on *Ray.writes.code( )* I will identify a problem, describe my thought process to formulate a solution to the problem, and show the code that I wrote to solve the problem.   
 
-Practicing and learning about software development is one of my favorite hobbies. I don't do coding or programming professionally.
-
-Many of my blog posts might come across as not being fully developed to you because those posts are meant to be reminders for me.
-
-However, you might find a blog post or more that is written for a larger audience.
-
-This blog intentionally doesn't provide a way to let you leave comments. 
-
-If you want to contact me then send an email note to hello at raywritescode dot com. 
-
------
-
-* [Twitter](https://www.twitter.com/raywritescode)
-* [GitHub](https://github.com/raywritescode)
-* [PGP Public Key](http://pgp.mit.edu/pks/lookup?op=get&search=0x5566F6D025842818)
+If you want to contact me you can reach me via email at hello at raywritescode dot com. 
 
 -----
 
