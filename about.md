@@ -37,4 +37,4 @@ If you want to contact me then send an email note to hello at raywritescode dot 
 
 Content for this blog is written in [kramdown](https://kramdown.gettalong.org) (a superset of [Markdown](http://en.wikipedia.org/wiki/Markdown)), which is processed into static HTML by [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-![Glider Emblem](/images/rwcAbout.jpg)
+![Glider Emblem](../images/rwcAbout.jpg)
