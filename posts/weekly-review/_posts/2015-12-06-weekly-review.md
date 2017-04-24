@@ -3,7 +3,7 @@ layout: post
 title: Week Ending 2015-12-06  
 permalink: week-ending-2015-12-06
 comments: True
-publish: True
+published: False
 ---
 
 * The MacBook Pro upgrades that I planned for this weekend didn't happen because the 8GB memory kit and the 256GB SSD that I ordered on November 28 didn't arrive on Friday. [crucial.com](http://www.crucial.com/)'s delivery tracking shows tomorrow as the updated delivery date.
