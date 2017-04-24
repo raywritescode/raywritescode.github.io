@@ -3,7 +3,7 @@ layout: post
 title: Week Ending 2015-12-13  
 permalink: week-ending-2015-12-13
 comments: True
-publish: True
+published: False
 ---
 
 * The MacBook Pro 8GB memory kit and the 250GB SSD upgrades were completed on Tuesday, 12/8. Except for not having a small enough Allen hex key (I ended up using long nosed pliers) tool to remove four support pins from the old hard disk to install on the new SSD, the upgrades process didn't run into any other problems.

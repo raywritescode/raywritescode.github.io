@@ -3,7 +3,7 @@ layout: post
 title: Week Ending 2015-12-27  
 permalink: week-ending-2015-12-27
 comments: True
-publish: True
+published: False
 ---
 
 * This week I dedicated only 2.5 hours studying *Chapter 9 - Functions* of [C Programming: A Modern Approach, Second Edition](http://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393979504&linkCode=as2&tag=6767151-20&linkId=FXGSFN72DGVZSLIR). 

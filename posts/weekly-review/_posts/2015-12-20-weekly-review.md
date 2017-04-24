@@ -2,7 +2,7 @@
 layout: post
 title: Week Ending 2015-12-20  
 permalink: week-ending-2015-12-20
-publish: True
+published: False
 ---
 
 * Early this week I got my Raspberry Pi off-site backup server running again. I had to reformat the SD card and copy the Raspberry Pi's last backup image to the SD card. 
