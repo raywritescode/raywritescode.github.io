@@ -8,14 +8,14 @@ published: True
 
 This is the first post of this refocused blog. 
 
-*Refocused* because from July 19, 2014 until this past weekend the majority of what I posted on this site was about Raspberry Pi computers, computer networking and other computer-related topics, and not very much about about coding.
+*Refocused* because from July 19, 2014 until this past weekend the majority of what I posted on this site was about Raspberry Pi computers, computer networking and other computer-related topics, and not very much about coding.
 
 I've unpublished from this site all of my blog posts dated before today. If you're interested in browsing through those past blog posts you can find them on my github repository at [github.com/raywritescode/raywritescode.github.io/tree/master/posts](https://github.com/raywritescode/raywritescode.github.io/tree/master/posts) 
 
-This blog is named *Ray.writes.code()* so the focus of this site is appropriately now about code and the thought process that went into writing it. 
+This blog is named *Ray.writes.code( )* so the focus of this site is appropriately now about code and the thought process that went into writing it. 
 
 ## The Problem
-Last weekend I installed VMWare Workstation 12 Player on my computer. In a new VMWare virtual machine I installed Debian 8 Linux.
+Last weekend I installed VMWare Workstation 12 Player on my computer. In a new VMWare virtual machine I installed Debian 8.7.1 Linux.
 
 I've decided to refresh my knowledge of C so I installed the latest version of the GNU C Compiler on my Debian virtual machine.
 
