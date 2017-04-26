@@ -52,5 +52,3 @@ Over the years I've collected a small library of books about software developmen
 * <a rel="nofollow" href="http://www.amazon.com/gp/product/0130206016/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0130206016&linkCode=as2&tag=6767151-20&linkId=NEY5NJGH5DFEM4TS">UNIX System Administration Handbook (3rd Edition)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=6767151-20&l=as2&o=1&a=0130206016" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Evi Neveth, Garth Snyder, Scott Seebass, and Trent R. Hein
 
 -----
-
-If you decide to buy any of the books listed on this page from amazon.com, please make your purchase using the provided links so that I may receive a modest referral commission from amazon.com. Thanks!
