@@ -20,8 +20,8 @@ author:
   email:          ray@raywritescode.com
 pages_list:
   # About: '/about'
-  Archives: '/archives'
-  Bookshelf: '/bookshelf'
+  # Archives: '/archives'
+  # Bookshelf: '/bookshelf'
 
 # Custom vars
 version:          1.0.0
