@@ -19,7 +19,7 @@ author:
   name:           Ray Santos
   email:          ray@raywritescode.com
 pages_list:
-  About: '/about'
+  # About: '/about'
   Archives: '/archives'
   Bookshelf: '/bookshelf'
 
